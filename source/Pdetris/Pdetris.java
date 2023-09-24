@@ -990,7 +990,7 @@ public class Shape {
   public void settings() { size(1000, 700); }
 
   static public void main(String[] passedArgs) {
-    String[] appletArgs = new String[] { "Flowtris" };
+    String[] appletArgs = new String[] { "Pdetris" };
     if (passedArgs != null) {
       PApplet.main(concat(appletArgs, passedArgs));
     } else {
