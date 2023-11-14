@@ -14,3 +14,7 @@ Once extracted, run the Processing application
 In Processing, open ```source/Pdetris/Pdetris.java```
 
 You can then run the application on Processing directly, or export it as a stand-alone executable.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
